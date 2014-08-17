@@ -1,6 +1,5 @@
 package com.rogama.tareasasincronas;
 
-import android.R.string;
 import android.support.v7.app.ActionBarActivity;
 import android.os.AsyncTask;
 import android.os.Bundle;
